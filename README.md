@@ -4,7 +4,7 @@ SecureVault is a Python-based GUI application that allows you to securely encryp
 ## 🚀 Features
 
 - ✅ Encrypt any file using AES (Fernet) encryption
-- ✅ Decrypt previously encrypted files with a saved key
+- ✅ Decrypt previously encrypted files with a saved key  
 - ✅ Simple and clean Tkinter GUI
 - ✅ Password-based encryption key generation
 - ✅ Safe key handling and storage
