@@ -9,3 +9,4 @@ SecureVault is a Python-based GUI application that allows you to securely encryp
 - ✅ Password-based encryption key generation
 - ✅ Safe key handling and storage
 - ✅ Error handling and success notifications
+ 
