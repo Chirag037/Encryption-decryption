@@ -8,5 +8,5 @@ SecureVault is a Python-based GUI application that allows you to securely encryp
 - ✅ Simple and clean Tkinter GUI
 - ✅ Password-based encryption key generation
 - ✅ Safe key handling and storage
-- ✅ Error handling and success notifications
+- ✅ Error handling and success notifications  
  
